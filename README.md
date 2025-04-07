@@ -2,40 +2,43 @@
 A fun and interactive web game built using HTML, CSS, and JavaScript where users test their color recognition skills by matching an RGB color value to the correct colored button.
 
 🚀 Features
-Displays a random RGB color value.
+1.Displays a random RGB color value.
 
-Shows six color options as buttons.
+2.Shows six color options as buttons.
 
-Only one button matches the RGB color.
+3.Only one button matches the RGB color.
 
-Click the correct button to see a "Correct!" message.
+4.Click the correct button to see a "Correct!" message.
 
-Click a wrong button and get a "Wrong answer! Guess again!" message.
+5.Click a wrong button and get a "Wrong answer! Guess again!" message.
 
-A Reset button to generate new colors and restart the game.
+6.A Reset button to generate new colors and restart the game.
 
 🛠️ Technologies Used
-HTML
 
-CSS
+* HTML
 
-JavaScript
+* CSS
+
+* JavaScript
 
 🧠 How It Works
-A random RGB color is shown in the header.
 
-Six buttons are filled with different randomly generated colors.
+1.A random RGB color is shown in the header.
 
-One of the buttons has the exact color as shown in the RGB value.
+2.Six buttons are filled with different randomly generated colors.
 
-Click the correct one and win!
+3.One of the buttons has the exact color as shown in the RGB value.
+
+4.Click the correct one and win!
 
 🎮 How to Play
-Look at the RGB color shown.
 
-Click the button that you think matches the color.
+1.Look at the RGB color shown.
 
-Keep trying until you guess the correct color!
+2.Click the button that you think matches the color.
 
-Use the Reset Game button to play again with a new color.
+3.Keep trying until you guess the correct color!
+
+4.Use the Reset Game button to play again with a new color.
 
